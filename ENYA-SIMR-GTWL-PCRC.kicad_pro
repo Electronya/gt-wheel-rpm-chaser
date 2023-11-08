@@ -46,7 +46,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.254
         }
       },
       "diff_pair_dimensions": [
@@ -501,7 +501,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "ENYA-SIMR-GTWL-PCRC.step",
       "vrml": ""
     },
     "page_layout_descr_file": "${ENYA_PAGE_LAYOUTS}/electronya_CC.kicad_wks"
